@@ -9,7 +9,8 @@ The system manages patients, appointments, doctors, prescriptions, billing, and 
 > Developed as part of a team of 3 students.
 
 ## Project Files
-- `database.sql` → Database schema and sample data  
+- `database.sql` → Database schema and sample data
+- `Project_Report.pdf` → Full project documentation  
 - `ERD.png` → Entity-Relationship Diagram
 
 ## ER Diagram
