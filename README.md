@@ -29,7 +29,7 @@ This project presents a database system for a smart healthcare clinic network op
 ![ER Diagram](./ERD.png)
 
 ## 📄 Project Files
-- [Project Report](./Smart-Healthcare.docx) – Full documentation including screenshots  
+- [Project Report](./Smart-Healthcare.(1).Pdf) – Full documentation including screenshots  
 - [Database SQL File](./database.sql) – Contains all table creation, sample data insertion, and queries  
 
 ##  How to Run
