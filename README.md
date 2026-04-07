@@ -1,7 +1,7 @@
 # Smart Healthcare Database System
 
 ##  Overview
-This project presents a database system for a smart healthcare clinic network operating across multiple cities. The system manages patients, appointments, doctors, prescriptions, billing, and inventory, supporting analytics, reporting, and role-based access control for security.
+This project presents a database system for a smart healthcare clinic network operating across multiple cities. The system manages patients, appointments, doctors, prescriptions, billing, and inventory, supporting analytics, reporting, and role-based access control.
 
 ##  Features
 - Manage patient registrations and appointments
@@ -12,7 +12,7 @@ This project presents a database system for a smart healthcare clinic network op
 - Role-based access and data security
 - Support analytics and reporting
 
-## Technologies Used
+##  Technologies Used
 - MySQL / SQL
 - Database Design (ER Modeling)
 - Normalization (1NF, 2NF, 3NF)
@@ -25,15 +25,17 @@ This project presents a database system for a smart healthcare clinic network op
 - Role-based access and security protocols
 - Reporting and analytics queries
 
+## 📷 ER Diagram
+![ER Diagram](./ERD.png)
+
+## 📄 Project Files
+- [Project Report](./Smart-Healthcare.docx) – Full documentation including screenshots  
+- [Database SQL File](./database.sql) – Contains all table creation, sample data insertion, and queries  
+
 ##  How to Run
 1. Open MySQL or any SQL environment  
 2. Import the `database.sql` file  
-3. Run the SQL queries to test the system  
-
-##  Project Files
-- [Database SQL File](database.sql) – Contains all table creation, sample data insertion, and queries  
-- [Project Report](Smart-Healthcare.docx) – Full documentation including screenshots  
-- [ER Diagram](ERD.png) – Entity-Relationship Diagram of the system
+3. Run the SQL queries to test the system
 
 ##  Author
 Arwa Alyami  
