@@ -12,7 +12,7 @@ This project presents a database system for a smart healthcare clinic network op
 - Role-based access and data security
 - Support analytics and reporting
 
-##  Technologies Used
+## Technologies Used
 - MySQL / SQL
 - Database Design (ER Modeling)
 - Normalization (1NF, 2NF, 3NF)
