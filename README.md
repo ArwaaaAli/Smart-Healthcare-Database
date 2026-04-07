@@ -10,7 +10,6 @@ The system manages patients, appointments, doctors, prescriptions, billing, and 
 
 ## Project Files
 - `database.sql` → Database schema and sample data  
-- `Project_Report.pdf` → Full project documentation  
 - `ERD.png` → Entity-Relationship Diagram
 
 ## ER Diagram
