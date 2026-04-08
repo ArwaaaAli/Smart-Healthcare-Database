@@ -39,8 +39,8 @@ You can download the full report here:
 ![ER Diagram](ER_Diagram.png)
 
 ## How to Run
-1. Clone or download the project from GitHub:  
-   [Smart Healthcare Database System Repository](https://github.com/ArwaaaAli/Smart-Healthcare-Database-System)
+Clone or download the project from GitHub:  
+[Smart Healthcare Database System Repository](https://github.com/ArwaaaAli/Smart-Healthcare-Database/tree/main)
 2. Open MySQL or any SQL environment
 3. Import the `database.sql` file
 4. Run the SQL queries to test the system
