@@ -32,7 +32,7 @@ You can download the full report here:
 
 ## Project Files
 - Database SQL file: [database.sql](database.sql)  
-- ER Diagram: [ER_Diagram.png](ER_Diagram.png)  
+- ER Diagram
 - Screenshots included in the project report
 
 ## Sample ER Diagram
