@@ -1,9 +1,9 @@
 # Smart Healthcare Database System
 
-##  Overview
-This project presents a database system for a smart healthcare clinic network operating across multiple cities. The system manages patients, appointments, doctors, prescriptions, billing, and inventory, supporting analytics, reporting, and role-based access control.
+## Overview
+This project presents a database system for a smart healthcare clinic network operating across multiple cities. It manages patients, appointments, doctors, prescriptions, billing, and inventory, supporting analytics, reporting, and role-based access control.
 
-##  Features
+## Features
 - Manage patient registrations and appointments
 - Track doctor schedules and specialties
 - Issue and manage electronic prescriptions
@@ -12,31 +12,30 @@ This project presents a database system for a smart healthcare clinic network op
 - Role-based access and data security
 - Support analytics and reporting
 
-##  Technologies Used
+## Technologies Used
 - MySQL / SQL
 - Database Design (ER Modeling)
 - Normalization (1NF, 2NF, 3NF)
 - Queries and Reports
 
-##  Key Concepts Applied
-- Conceptual Schema Design (ER Diagram)
-- Normalization and mapping to relational tables
-- SQL table creation, data insertion, and query execution
-- Role-based access and security protocols
-- Reporting and analytics queries
+## Project Report
+The project report contains detailed explanations, ER diagrams, screenshots, and queries.  
+[Download Full Project Report](HospitalManagementSystem_Report.pdf)
 
-## 📷 ER Diagram
-![ER Diagram](./ERD.png)
+## Project Files
+- `database.sql` – SQL file with all tables, sample data, and queries
+- Screenshots: ER Diagram and program outputs (`screenshots/`)
 
-## 📄 Project Files
-- [Project Report](./Smart-Healthcare.pdf) – Full documentation including screenshots  
-- [Database SQL File](./database.sql) – Contains all table creation, sample data insertion, and queries  
+## Sample Output
+![ER Diagram](screenshots/ER_Diagram.png)
+![Sample Output](screenshots/Output1.png)
 
-##  How to Run
+## How to Run
 1. Open MySQL or any SQL environment  
-2. Import the `database.sql` file  
-3. Run the SQL queries to test the system
+2. Import `database.sql`  
+3. Run the SQL queries to test functionalities  
+4. Explore tables and reports as described in the project report
 
-##  Author
+## Author
 Arwa Alyami  
 Developed as part of a university group project (3 students)
